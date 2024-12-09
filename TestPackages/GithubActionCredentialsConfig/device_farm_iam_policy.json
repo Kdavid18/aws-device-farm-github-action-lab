@@ -30,7 +30,7 @@
       ],
       "Resource": [
         "arn:aws:devicefarm:us-west-2:917730751572:project:ec90feaf-6301-4fb3-9ef8-3e95cde8d347",
-        "arn:aws:devicefarm:us-west-2:917730751572:devicepool:*",
+        "arn:aws:devicefarm:us-west-2::devicepool:082d10e5-d7d7-48a5-ba5c-b33d66efa1f5",
         "arn:aws:devicefarm:us-west-2:917730751572:upload:*"
       ]
     },
